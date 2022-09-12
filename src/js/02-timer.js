@@ -13,7 +13,7 @@ let timeLeft = 0;
 let timerId = null;
 
 startBtn.setAttribute('disabled', 'true');
-// Timer
+// Timerr
 const options = {
   enableTime: true,
   time_24hr: true,
